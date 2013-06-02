@@ -1,7 +1,7 @@
 WS-Amplification
 ================
 
-Tool to explore the WS-Amplification DoS threat. Part of the OWASP WS-Amplification DoS Project.
+Tool to explore the WS-Amplification DoS threat. Part of the OWASP WS-Amplification DoS Project (https://www.owasp.org/index.php/OWASP_WS_Amplification_DoS_Project).
 
 This tool contains 3 parts:
 
